@@ -54,8 +54,8 @@ Aplicativo mobile criado com **React Native + Expo** para auxiliar médicos e en
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/dose-calculator-app.git
-cd dose-calculator-app
+git clone https://github.com/srkdevbr/medical-brew.git
+cd anesthesia-app
 
 # 2. Instale as dependências
 npm install
