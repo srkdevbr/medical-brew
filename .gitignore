@@ -1,0 +1,11 @@
+node_modules
+/.env
+.DS_Store
+/dist
+/.cache
+/public
+/src/assets/images
+/src/assets/fonts
+/src/assets/videos
+/src/assets/audio
+*/node_modules
